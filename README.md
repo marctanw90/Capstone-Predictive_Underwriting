@@ -13,6 +13,7 @@
    The aim of the project is to provide a demonstration of how ML techniques can be used to predict underwriting decision for life insurance applicants, which could then in turn support underwriters in their decision-making process on how prospective new business should be valued. This model may then be implemented into the business process be it through providing an early glimpse of the likely underwriting result or implemented as part of the decision classifier model of a Straight Through Processing ("STP") chain.
     
    As a case study, we will use the dataset featured in the Prudential Life Insurance Assessment competition previously hosted on Kaggle, and showcase how ML classifiers can be used to quantitatively assess risk and ultimately provide us with an underwriting decision.
+   
 ##Problem Statement
 
 At present, Underwriters in the Life Insurance industry review all Policy applications manually. This results in inefficiencies, inaccuracies and overall longer turnaround times before Policies are issued but are a necessary exercise for direct life insurance underwriters. 
