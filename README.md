@@ -14,7 +14,7 @@
     
    As a case study, we will use the dataset featured in the Prudential Life Insurance Assessment competition previously hosted on Kaggle, and showcase how ML classifiers can be used to quantitatively assess risk and ultimately provide us with an underwriting decision.
    
-##Problem Statement
+## Problem Statement
 
 At present, Underwriters in the Life Insurance industry review all Policy applications manually. This results in inefficiencies, inaccuracies and overall longer turnaround times before Policies are issued but are a necessary exercise for direct life insurance underwriters. 
 
